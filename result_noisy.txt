@@ -1,0 +1,46 @@
+
+      NOISY DATASET
+
+      Unpruned:
+
+      Average depth: 19.355555555555554
+
+      Average confusion matrix: [[39.  3.  3.  4.]
+ [ 3. 40.  4.  3.]
+ [ 3.  4. 41.  3.]
+ [ 4.  2.  4. 40.]]
+
+      Average accuracy: 0.7975555555555557
+
+      Average precision: [0.79497619 0.80887059 0.78552004 0.80479685]
+
+      Average recall: [0.78565687 0.80878041 0.7980569  0.79616175]
+
+      Average f1: [0.78870086 0.8068617  0.7901762  0.79851427]
+
+      
+
+      Pruned:
+
+      Average depth: 15.055555555555555
+
+      Average confusion matrix: [[44.  1.  2.  2.]
+ [ 2. 43.  3.  1.]
+ [ 2.  4. 44.  2.]
+ [ 3.  2.  2. 44.]]
+
+      Average accuracy: 0.8742777777777776
+
+      Average precision: [0.86524478 0.87230249 0.8710875  0.89526691]
+
+      Average recall: [0.89292793 0.87414917 0.85113881 0.87745425]
+
+      Average f1: [0.87777336 0.87190363 0.8597739  0.88434603]
+
+      
+
+      Average depth reduction: 4.299999999999999
+
+      Average accuracy improvement: 0.07672222222222191
+
+      
